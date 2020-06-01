@@ -3,6 +3,10 @@
 # About dataset  
 The dataset has been taken from thttps://www.kaggle.com/c/digit-recognizer.
 
+# Technology used  
+1.Python  
+2.Angular  8  
+
 # About model architecture  
 layers : Conv2D-->MaxPool2D-->Dropout-->Conv2D-->MaxPool2D-->Dropout-->Conv2D--->MaxPool2D---->Flatten--->Dense---->Dropout--->Dense  
 activation : (relu)                    (relu)                          (relu)                            (relu)                (sigmoid)  
